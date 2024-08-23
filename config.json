@@ -1,0 +1,20 @@
+{
+    "params":{
+         "local_server":"True",
+         "local_uri":"mysql://root:@localhost/codingthunder",
+         "prod_uri":"mysql://root:@localhost/codingthunder",
+         "fb_url":"facebook.com/codeAlok",
+         "tw_url":"twitter.com/codeAlok",
+         "gh_url":"github.com/codeAlok",
+         "blog_name":"codeAlok",
+         "tagline":"A blog liked by Programmers",
+         "gmail-user":"alokma895754@gmail.com",
+         "gmail-password":"alok#8957",
+         "about_text":"My name is lakhan and I created programming tutorial and I am a good boy",
+         "no_of_posts":3,
+         "login_image":"login.svg",
+         "admin_user":"alok",
+         "admin_password":"alok1234",
+         "upload_location":"C:\\Users\\alokmaurya\\OneDrive\\VSCODE23\\flask"
+    }
+}
